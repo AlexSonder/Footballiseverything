@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,BEINSPORTS 5 SD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
+#EXTINF:-1,Sky Sports PL
+http://randomserver.site:2086/live/Bria/Bria/67060.m3u8
 #EXTINF:-1,BEINSPORTS 5 HD BACKUP
 http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/10.ts
 #EXTINF:-1,BEINSPORTS 5 HD
