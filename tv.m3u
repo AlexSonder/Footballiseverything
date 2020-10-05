@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1,Sky Sports PL
-http://randomserver.site:2086/live/Bria/Bria/67060.m3u8
-#EXTINF:-1,BEINSPORTS 5 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/10.ts
-#EXTINF:-1,BEINSPORTS 5 HD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/9.ts
-#EXTINF:-1,BEINSPORTS 5 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/29.ts
-#EXTINF:-1,BEINSPORTS 6 SD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.ts
-#EXTINF:-1,BEINSPORTS 6 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/32.ts
+#EXTINF:-1,CCTV1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/index.m3u8
+#EXTINF:-1,CCTV2 480
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228129/index.m3u8
+#EXTINF:-1,CCTV5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
+#EXTINF:-1,东方卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221227964/index.m3u8
+#EXTINF:-1,江苏卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229110/index.m3u8
+#EXTINF:-1,湖南卫视
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230206/index.m3u8
 #EXTINF:-1,BEINSPORTS 6 HD  BACKUP
 http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/12.ts
 #EXTINF:-1,BEINSPORTS 6 HD
