@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,CCTV1
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230242/index.m3u8
-#EXTINF:-1,CCTV2 480
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228129/index.m3u8
+#EXTINF:-1,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1,SkyNews
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:-1,CCTV5
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221228849/index.m3u8
-#EXTINF:-1,东方卫视
-http://live.aikan.miguvideo.com/PLTV/88888888/224/3221227964/index.m3u8
+#EXTINF:-1,BeINXtra
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,江苏卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229110/index.m3u8
 #EXTINF:-1,湖南卫视
