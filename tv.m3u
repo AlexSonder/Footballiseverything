@@ -7,6 +7,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/cdd85e09-3cf6-4e4e-8fda-ea32c2ce0b76:BRU/master.m3u8
 #EXTINF:-1,ESPN
 http://yt.findsports.stream/srv/espnau.m3u8
+#EXTINF:-1,ESPN2
+http://4u.findsports.stream/srv/espn2.m3u8
 #EXTINF:-1,FS1NL
 https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
 #EXTINF:-1,LaligaUK
