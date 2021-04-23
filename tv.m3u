@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1,BBC
+https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
+#EXTINF:-1,CBSN
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/cdd85e09-3cf6-4e4e-8fda-ea32c2ce0b76:BRU/master.m3u8
+#EXTINF:-1,ESPN
+http://yt.findsports.stream/srv/espnau.m3u8
+#EXTINF:-1,FS1NL
+https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
+#EXTINF:-1,LaligaUK
+http://cdn2.hdstreamss.club/live/abr_ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDc6MzQ6NDcgQU0maGFzaF92YWx1ZT02MDNNbDNCQXhHSVFXWU15c3cxSUdBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNDEuMTAxLjk5LjIxNSZzdHJtX2xlbj01
 #EXTINF:-1,SONY Ten 1
 https://sonydai.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1616989937~acl=/*~id=190822163692285381~hmac=3291d6dd299bed52010edf17ae70d297dbfb1c857f5c53bbee89480edee4669d
 #EXTINF:-1,SONY Ten 2
