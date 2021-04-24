@@ -7,6 +7,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/cdd85e09-3cf6-4e4e-8fda-ea32c2ce0b76:BRU/master.m3u8
 #EXTINF:-1,BTS3
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/9vcwbs7y.m3u8?s=RSlZKKsIWH3CNTvoSQ-lqA&e=1619280489
+#EXTINF:-1,SkySME
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/4g76m.m3u8?s=BK8qB1CxONo6fnFGaA2xsw&e=1619280722
 #EXTINF:-1,ESPN
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/qe5out9z.m3u8?s=RcjCaMMoyzjykFCrAQzIlA&e=1619280683
 #EXTINF:-1,ESPN2
