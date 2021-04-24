@@ -5,6 +5,10 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1,CBSN
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/cdd85e09-3cf6-4e4e-8fda-ea32c2ce0b76:BRU/master.m3u8
+#EXTINF:-1,BTS1
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/5ub3rtx.m3u8?s=Xs1fOMu5H6scGzb4tL3D1w&e=1619280787
+#EXTINF:-1,BTS2
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/xftrd8uold5t2.m3u8?s=Esoj4uHsnkXkPadcJvghwA&e=1619280839
 #EXTINF:-1,BTS3
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/9vcwbs7y.m3u8?s=RSlZKKsIWH3CNTvoSQ-lqA&e=1619280489
 #EXTINF:-1,SkySME
