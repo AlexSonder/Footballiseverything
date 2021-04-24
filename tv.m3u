@@ -17,8 +17,12 @@ https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/z60vln6kd.m3u8?s=U55jB5fTyW78NUkl
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/4g76m.m3u8?s=BK8qB1CxONo6fnFGaA2xsw&e=1619280722
 #EXTINF:-1,TruePL
 https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1,AstroSS
+#EXTINF:-1,AstroSS1
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,AstroSS2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,AstroSS3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,BeIN1
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/3gyw1121.m3u8?s=RkVwkhHIaoO4U1De-cZIVA&e=1619306165
 #EXTINF:-1,ESPN
