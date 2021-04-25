@@ -27,12 +27,16 @@ http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,AstroSS4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-#EXTINF:-1,BeIN1
-https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/3gyw1121.m3u8?s=RkVwkhHIaoO4U1De-cZIVA&e=1619306165
-#EXTINF:-1,ESPN
-https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/qe5out9z.m3u8?s=RcjCaMMoyzjykFCrAQzIlA&e=1619280683
-#EXTINF:-1,ESPN2
-http://4u.findsports.stream/srv/espn2.m3u8
+#EXTINF:-1,AstroAOD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1,AstroArena
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1,Astro全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1,Astro双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1,Astro欢喜
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152934637_902.png" group-title="China",CCTV-1 综合
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="China",Hunan TV (湖南卫视)
@@ -43,6 +47,22 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="China",Jiangsu TV (江苏卫视)
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="Japan",NHK (JOAK-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Japan",NHK (JOAB-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE2-041-400x400.png" group-title="Japan",Nippon TV (JOAX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="Japan",TV Asahi (JOEX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Japan",TBS TV (JORX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="Japan",TV Tokyo (JOTX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="Japan",Fuji TV (JOCX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7E87-091-400x400.png" group-title="Japan",Tokyo MX (JOMX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
 #EXTINF:-1,FS1NL
 https://content-aeuf1.uplynk.com/channel/532ece05d1b44d6f89e9fcdedd09350f.m3u8?pbs=4f70afb7f912417283c860349663c07b
 #EXTINF:-1,LaligaUK
@@ -55,14 +75,10 @@ https://sonydai.akamaized.net/hls/live/2005444/DAI5ME/master.m3u8?hdnea=exp=1616
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,SkyS1
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/x11gq4.m3u8?s=3yY0nk9_vOoNdwniqdb9SA&e=1619280389
-#EXTINF:-1,AstroAOD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1,AstroArena
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1,Astro全佳
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1,Astro双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1,Astro欢喜
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1,BeIN1
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/3gyw1121.m3u8?s=RkVwkhHIaoO4U1De-cZIVA&e=1619306165
+#EXTINF:-1,ESPN
+https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/qe5out9z.m3u8?s=RcjCaMMoyzjykFCrAQzIlA&e=1619280683
+#EXTINF:-1,ESPN2
+http://4u.findsports.stream/srv/espn2.m3u8
 
