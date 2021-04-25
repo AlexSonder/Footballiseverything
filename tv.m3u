@@ -83,8 +83,10 @@ https://sonydai.akamaized.net/hls/live/2005444/DAI5ME/master.m3u8?hdnea=exp=1616
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,SkyS1
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/x11gq4.m3u8?s=3yY0nk9_vOoNdwniqdb9SA&e=1619280389
-#EXTINF:-1,BeIN1
-https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/3gyw1121.m3u8?s=RkVwkhHIaoO4U1De-cZIVA&e=1619306165
+#EXTINF:-1 group-title="TV"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 group-title="TV"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN 2
