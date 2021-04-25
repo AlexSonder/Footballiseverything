@@ -92,7 +92,7 @@ https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN 2
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 ,鳳凰資訊
-http://117.169.120.138:8080/live/fhzixun/.m3u8
+http://117.169.120.156:8080/live/fhzixun/index.m3u8?icpid=88888929&from=79102&hms_devid=489,440&online=1619372925&vqe=3
 #EXTINF:-1 ,鳳凰衛視中文台
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8?icpid=88888888&from=6&popid=6&hms_devid=3730&prioritypopid=6&vqe=3
 
