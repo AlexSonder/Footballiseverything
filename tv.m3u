@@ -83,8 +83,8 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/x11gq4.m3u8?s=3yY0nk9_vOoNdwniqdb9SA&e=1619280389
 #EXTINF:-1,BeIN1
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/3gyw1121.m3u8?s=RkVwkhHIaoO4U1De-cZIVA&e=1619306165
-#EXTINF:-1,ESPN
-https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/qe5out9z.m3u8?s=RcjCaMMoyzjykFCrAQzIlA&e=1619280683
-#EXTINF:-1,ESPN2
-http://4u.findsports.stream/srv/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN 2
+https://gma2.blab.email/espn2.m3u8
 
