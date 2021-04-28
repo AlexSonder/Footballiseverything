@@ -82,7 +82,7 @@ https://sonydai.akamaized.net/hls/live/2005445/DAI6ME/master.m3u8?hdnea=exp=1616
 #EXTINF:-1,SONY Ten 2
 https://sonydai.akamaized.net/hls/live/2005444/DAI5ME/master.m3u8?hdnea=exp=1616743453~acl=/*~id=190828193794574121~hmac=5055122ae7e0716a744683cf38b3307e8b05d285e25dbf1b9504b5ace4a1d817
 #EXTINF:-1,BeINXtra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1,SkyS1
 https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/x11gq4.m3u8?s=3yY0nk9_vOoNdwniqdb9SA&e=1619280389
 #EXTINF:-1 group-title="TV"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
