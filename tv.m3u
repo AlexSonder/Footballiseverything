@@ -101,4 +101,11 @@ https://gma2.blab.email/espnu.m3u8
 http://117.169.120.156:8080/live/fhzixun/index.m3u8?icpid=88888929&from=79102&hms_devid=489,440&online=1619372925&vqe=3
 #EXTINF:-1 ,鳳凰衛視中文台
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8?icpid=88888888&from=6&popid=6&hms_devid=3730&prioritypopid=6&vqe=3
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMgtqM8.jpg" group-title="ENTERTAINMENT",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHbmKUV.jpg" group-title="ENTERTAINMENT",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="ENTERTAINMENT",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="ENTERTAINMENT",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
