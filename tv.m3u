@@ -109,3 +109,5 @@ https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-fr
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="ENTERTAINMENT",Hallmark Movies & Mysteries
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", Sony One
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
