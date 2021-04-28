@@ -3,8 +3,8 @@
 http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
 #EXTINF:-1,BBC
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1,CBSN
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/cdd85e09-3cf6-4e4e-8fda-ea32c2ce0b76:BRU/master.m3u8
+#EXTINF:-1,SkyNews
+https://e9.dotice.me/plyvivo/hifa401idatatu6ixaya/playlist.m3u8
 #EXTINF:-1,Tennis
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/BtSport1Hd_201708"group-title="SPORTS", BT SPORT 1 HD
