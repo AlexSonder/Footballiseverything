@@ -7,6 +7,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 https://e9.dotice.me/plyvivo/hifa401idatatu6ixaya/playlist.m3u8
 #EXTINF:-1,CNA
 http://23.237.61.18:61980/myplay/c_10007/index.m3u8?key=NKd6hB3fHIAsyUOLwXatgA&expires=1619639536
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/CGTN.au.png" group-title="WORLD NEWS", CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,Tennis
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/BtSport1Hd_201708"group-title="SPORTS", BT SPORT 1 HD
