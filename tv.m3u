@@ -40,11 +40,11 @@ http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,AstroAOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #EXTINF:-1,AstroArena
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1,Astro全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1,Astro双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1,Astro欢喜
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2019/6/10/1560152934637_902.png" group-title="China",CCTV-1 综合
