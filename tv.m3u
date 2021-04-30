@@ -97,6 +97,8 @@ https://c6d34z8w3zavhqt3.ezcdn483.net:8443/hls/x11gq4.m3u8?s=3yY0nk9_vOoNdwniqdb
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="TV"tvg-logo="https://www.img02.xyz/assets/img/ch_logo/epl-bein2.png",BEIN SPORT HD 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPNEWS
+http://4u.findsports.stream/srv/espnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN 2
