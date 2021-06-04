@@ -146,7 +146,7 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="SPORTS", ESPN U
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 ,鳳凰資訊
-http://117.169.120.149:8080/live/fhzixun/index.m3u8
+http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 #EXTINF:-1 ,鳳凰衛視中文台
 http://39.134.135.124/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8?icpid=88888888&from=6&popid=6&hms_devid=3730&prioritypopid=6&vqe=3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMgtqM8.jpg" group-title="ENTERTAINMENT",Hallmark Channel
